@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "bab8c783c2696d1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d162206d9ea0eb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21d314cfafadd049",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00/2024-01-25.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f10961d3aa27a7ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3522c5907741598b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "146f4d316150c0fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b41e36432774c331",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27eaa87dedf32f3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db90e68854d90f2d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4ee979b7128b9f8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bff4fa2755fcaa3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d248023cda2eddcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f442e7dea62e29b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00/2024-01-25.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "52d6767aaaf3de32",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00/2024-01-25.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bcb904fedae633a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3f7475a9ce3ebba5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00/2024-01-25.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "21d314cfafadd049",
+  "lastOpenFiles": [
+    "00/2024-01-25.md",
+    "attachment",
+    "00",
+    "Untitled 1.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled.canvas",
+    "Welcome.md"
+  ]
+}
