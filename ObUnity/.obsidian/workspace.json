@@ -99,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00/2024-01-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00/2024-01-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "00/2024-01-25.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -162,7 +158,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "21d314cfafadd049",
+  "active": "3522c5907741598b",
   "lastOpenFiles": [
     "00/2024-01-25.md",
     "attachment",
