@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00/2024-01-29.md",
+                "file": "00/2024-01-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00/2024-01-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00/2024-01-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "00/2024-01-29.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -162,10 +158,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "21d314cfafadd049",
+  "active": "3522c5907741598b",
   "lastOpenFiles": [
-    "00/2024-01-26.md",
+    "00/2024-01-31.md",
     "00/2024-01-29.md",
+    "未命名",
+    "00/2024-01-26.md",
     "00/2024-01-25.md",
     "attachment",
     "00",
