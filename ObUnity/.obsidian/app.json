@@ -3,5 +3,12 @@
   "trashOption": "local",
   "newFileLocation": "folder",
   "newFileFolderPath": "00",
-  "attachmentFolderPath": "attachment"
+  "attachmentFolderPath": "attachment",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
