@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00/至尊武道会设计文档.md",
+                "file": "unity/学习大纲.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00/至尊武道会设计文档.md",
+                "file": "unity/学习大纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00/至尊武道会设计文档.md",
+                "file": "unity/学习大纲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00/至尊武道会设计文档.md"
+                "file": "unity/学习大纲.md"
               }
             }
           }
