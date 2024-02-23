@@ -99,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unity/游戏程序集资源划分.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unity/游戏程序集资源划分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "unity/游戏程序集资源划分.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -162,11 +158,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "82f2e6ae5816d0d6",
+  "active": "3522c5907741598b",
   "lastOpenFiles": [
+    "unity/游戏程序集资源划分.md",
     "00/2024-02-20.md",
     "00/至尊武道会设计文档.md",
-    "unity/游戏程序集资源划分.md",
     "unity/学习大纲.md",
     "00/2024-01-25.md",
     "attachment/OX@Y[}GL0H}YS4_Y7WJ_998.png",
