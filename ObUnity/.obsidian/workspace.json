@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unity/LuaCI.md",
-                "mode": "source",
+                "file": "unity/安装CocoaPods.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unity/学习大纲.md",
+                "file": "unity/游戏程序集资源划分.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unity/LuaCI.md",
+                "file": "unity/安装CocoaPods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unity/LuaCI.md",
+                "file": "unity/安装CocoaPods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unity/LuaCI.md"
+                "file": "unity/安装CocoaPods.md"
               }
             }
           }
@@ -168,9 +168,10 @@
   },
   "active": "82f2e6ae5816d0d6",
   "lastOpenFiles": [
-    "unity/学习大纲.md",
     "unity/LuaCI.md",
+    "unity/安装CocoaPods.md",
     "unity/游戏程序集资源划分.md",
+    "unity/学习大纲.md",
     "unity/未命名",
     "00/2024-02-28.md",
     "未命名",
