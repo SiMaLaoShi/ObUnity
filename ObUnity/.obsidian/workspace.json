@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unity/学习大纲.md",
-                "mode": "preview",
+                "file": "unity/杂七杂八.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unity/学习大纲.md",
+                "file": "unity/杂七杂八.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unity/学习大纲.md",
+                "file": "unity/杂七杂八.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unity/学习大纲.md"
+                "file": "unity/杂七杂八.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   "active": "82f2e6ae5816d0d6",
   "lastOpenFiles": [
     "unity/LuaCI.md",
+    "unity/杂七杂八.md",
     "unity/游戏程序集资源划分.md",
     "unity/学习大纲.md",
     "unity/安装CocoaPods.md",
