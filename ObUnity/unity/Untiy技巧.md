@@ -39,3 +39,9 @@ private static bool DeveloperModeEnabled()
     return true;  
 }
 ```
+
+## 粒子在Scene面板一直播放，不需要选中
+
+![[Pasted image 20240430152905.png]]
+
+Simulate Layers选Evertting就行了
