@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5d162206d9ea0eb5",
+        "id": "baad24922eae3770",
         "type": "tabs",
         "children": [
           {
-            "id": "82f2e6ae5816d0d6",
+            "id": "e116674ced6d7f0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unity/杂七杂八.md",
+                "file": "unity/Untiy技巧.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unity/杂七杂八.md",
+                "file": "unity/Untiy技巧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unity/杂七杂八.md",
+                "file": "unity/Untiy技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unity/杂七杂八.md"
+                "file": "unity/Untiy技巧.md"
               }
             }
           }
@@ -148,16 +148,33 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "82f2e6ae5816d0d6",
+  "active": "e116674ced6d7f0b",
   "lastOpenFiles": [
+    "attachment/Pasted image 20240430145809.png",
     "unity/LuaCI.md",
+    "unity/Untiy技巧.md",
+    "unity/Skine反编译.md",
+    "attachment/Pasted image 20240415094338.png",
+    "00/skeleton.md",
+    "attachment/Pasted image 20240412102748.png",
+    "attachment/Pasted image 20240412102446.png",
+    "attachment/Pasted image 20240412102403.png",
+    "attachment/Pasted image 20240412102348.png",
+    "attachment/Pasted image 20240412101243.png",
+    "attachment/Pasted image 20240412101229.png",
+    "attachment/Pasted image 20240412100940.png",
+    "attachment/Pasted image 20240412100911.png",
+    "unity/GPU流水线.md",
+    "unity/渲染流水线.md",
     "unity/杂七杂八.md",
+    "android/Activity的生命周期.md",
+    "00/未命名.md",
+    "android",
     "unity/游戏程序集资源划分.md",
     "unity/学习大纲.md",
     "unity/安装CocoaPods.md",
     "unity/未命名",
     "00/2024-02-28.md",
-    "未命名",
     "00/2024-02-20.md",
     "00/至尊武道会设计文档.md",
     "00/2024-01-25.md",
