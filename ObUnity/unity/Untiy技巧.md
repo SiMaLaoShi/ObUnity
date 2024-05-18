@@ -45,3 +45,7 @@ private static bool DeveloperModeEnabled()
 ![[Pasted image 20240430152905.png]]
 
 Simulate Layers选Evertting就行了
+
+## IOS提审被崩溃被打回的日志文件还原
+
+把日志文件改为.crash文件然后后用xcode打开，选择对应工程就能还原崩溃信息
