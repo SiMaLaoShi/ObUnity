@@ -45,3 +45,29 @@ private static bool DeveloperModeEnabled()
 ![[Pasted image 20240430152905.png]]
 
 Simulate Layers选Evertting就行了
+
+## Pod修改Other Link 
+
+由于pod install 会修改OTHER_LDFLAGS，导致一些问题，可以直接用pod的处理来操作
+
+```lua
+post_install do |installer|
+  installer.pods_project.targets.each do |target|
+    if target.name == 'Pods-Unity-iPhone'
+      puts "Found Unity-iPhone target, updating OTHER_LDFLAGS..."
+      
+      target.build_configurations.each do |config|
+        xcconfig_path = config.base_configuration_reference.real_path
+        puts "Updating xcconfig file: #{xcconfig_path}"
+        xcconfig = File.read(xcconfig_path)
+        # 修改OTHER_LDFLAGS行
+        xcconfig.gsub!(/^OTHER_LDFLAGS = .*\n/, "OTHER_LDFLAGS = -ObjC\n")
+        # 写回xcconfig文件
+        File.write(xcconfig_path, xcconfig)
+        
+        puts "OTHER_LDFLAGS updated successfully."
+      end
+    end
+  end
+end
+```
