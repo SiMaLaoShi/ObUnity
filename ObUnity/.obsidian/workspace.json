@@ -13,7 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unity/Untiy技巧.md",
+                "file": "unity/团结引擎.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5bd07fce47049476",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unity/后处理/灰度.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83a77c44b3d3fbad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unity/后处理/灰度.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb89913438554cd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unity/后处理/灰度.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unity/Untiy技巧.md",
+                "file": "unity/团结引擎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unity/Untiy技巧.md",
+                "file": "unity/团结引擎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +161,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unity/Untiy技巧.md"
+                "file": "unity/团结引擎.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -140,6 +177,7 @@
     "hiddenItems": {
       "audio-recorder:开始/结束录音": false,
       "workspaces:管理工作区布局": false,
+      "obsidian42-brat:BRAT": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -150,47 +188,52 @@
   },
   "active": "e116674ced6d7f0b",
   "lastOpenFiles": [
-    "attachment/Pasted image 20240430145809.png",
-    "unity/LuaCI.md",
-    "unity/Untiy技巧.md",
+    "attachment/Pasted image 20240724203118.png",
+    "unity/后处理/后处理.md",
+    "unity/团结引擎.md",
+    "unity/后处理/扭曲.md",
+    "unity/后处理/目录.md",
+    "unity/后处理/模糊.md",
+    "unity/后处理/灰度.md",
     "unity/Skine反编译.md",
-    "attachment/Pasted image 20240415094338.png",
-    "00/skeleton.md",
-    "attachment/Pasted image 20240412102748.png",
-    "attachment/Pasted image 20240412102446.png",
-    "attachment/Pasted image 20240412102403.png",
-    "attachment/Pasted image 20240412102348.png",
-    "attachment/Pasted image 20240412101243.png",
-    "attachment/Pasted image 20240412101229.png",
-    "attachment/Pasted image 20240412100940.png",
-    "attachment/Pasted image 20240412100911.png",
-    "unity/GPU流水线.md",
-    "unity/渲染流水线.md",
-    "unity/杂七杂八.md",
-    "android/Activity的生命周期.md",
-    "00/未命名.md",
-    "android",
-    "unity/游戏程序集资源划分.md",
+    "unity/Shader说明.md",
+    "unity/后处理/调色.md",
+    "unity/后处理/溶解.md",
+    "unity/Unity后处理.md",
+    "tuanjie/团结启动.md",
     "unity/学习大纲.md",
     "unity/安装CocoaPods.md",
-    "unity/未命名",
-    "00/2024-02-28.md",
-    "00/2024-02-20.md",
-    "00/至尊武道会设计文档.md",
-    "00/2024-01-25.md",
-    "attachment/OX@Y[}GL0H}YS4_Y7WJ_998.png",
+    "unity/后处理",
+    "unity/Untiy技巧.md",
+    "unity/LuaCI.md",
+    "unity/H5包体测试配置.md",
+    "unity/GPU流水线.md",
+    "unity/杂七杂八.md",
+    "unity/游戏程序集资源划分.md",
+    "unity/渲染流水线.md",
+    "Welcome.md",
+    "attachment/Pasted image 20240702171747.png",
+    "attachment/Pasted image 20240702171642.png",
+    "attachment/Pasted image 20240702171525.png",
+    "attachment/Pasted image 20240702171451.png",
+    "attachment/Pasted image 20240702171349.png",
+    "attachment/Pasted image 20240702171329.png",
+    "attachment/Pasted image 20240702171308.png",
+    "attachment/Pasted image 20240702171239.png",
+    "attachment/Pasted image 20240702171210.png",
+    "attachment/Pasted image 20240702171121.png",
+    "tuanjie/AssetStudio-Tuanjie.md",
+    "00/未命名.md",
+    "tuanjie",
+    "unity/Untiy技巧.md.BASE.md",
+    "android",
     "unity",
     "attachment/Readme.txt",
-    "00/2024-02-19.md",
-    "00/2024-01-26.md",
-    "00/2024-01-29.md",
-    "00/2024-01-31.md",
     "attachment",
     "00",
     "Untitled 1.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
-    "Untitled.canvas",
-    "Welcome.md"
+    "Untitled.canvas"
   ]
 }
