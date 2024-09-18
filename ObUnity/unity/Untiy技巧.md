@@ -125,34 +125,3 @@ end
 
 ## 切割VSF
 
-```python
-def split_unityfs_file(src_file_path):  
-    # 二进制标识符，UnityFS的UTF-8编码  
-    unityfs_marker = b'UnityFS'  
-  
-    # 打开原始二进制文件进行读取  
-    with open(src_file_path, 'rb') as file:  
-        file_content = file.read()  
-  
-    # 查找所有的UnityFS标识符位置  
-    marker_indices = []  
-    index = file_content.find(unityfs_marker)  
-    while index != -1:  
-        marker_indices.append(index)  
-        index = file_content.find(unityfs_marker, index + 1)  
-  
-    # 分割原始二进制文件并写入新的文件  
-    for i, start_idx in enumerate(marker_indices):  
-        # 决定分割部分的结束位置  
-        end_idx = marker_indices[i + 1] if i + 1 < len(marker_indices) else None  
-        part = file_content[start_idx:end_idx]  
-  
-        # 写入分割后的文件  
-        with open(f"split_part_{i}.unityfs", 'wb') as split_file:  
-            split_file.write(part)  
-  
-  
-if __name__ == '__main__':  
-    # 使用函数并传入源文件路径  
-    split_unityfs_file(r'')
-```
