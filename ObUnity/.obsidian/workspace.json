@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unity/渲染流水线.md",
+                "file": "unity/杂七杂八.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "渲染流水线"
+              "title": "杂七杂八"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unity/渲染流水线.md"
+                "file": "unity/杂七杂八.md"
               },
               "icon": "lucide-list",
-              "title": "渲染流水线 的大纲"
+              "title": "杂七杂八 的大纲"
             }
           }
         ],
@@ -170,6 +170,7 @@
   },
   "active": "80190db89964933c",
   "lastOpenFiles": [
+    "unity/渲染流水线.md",
     "unity/Render分析/RenderDoc微信小游戏.md",
     "unity/Render分析/RenderDoc分析Webgl.md",
     "unity/项目工程管理/协作环境.md",
@@ -189,7 +190,6 @@
     "unity/安装CocoaPods.md",
     "unity/VGGameFramework/VGGameFramework.md",
     "unity/URP/URP.md",
-    "unity/渲染流水线.md",
     "unity/后处理/简单后处理原理以及实现.md",
     "tuanjie/团结启动.md",
     "unity/项目工程管理",
