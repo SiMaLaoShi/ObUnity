@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unity/杂七杂八.md",
+                "file": "unity/比对AssetBundle的差异.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "杂七杂八"
+              "title": "比对AssetBundle的差异"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -139,10 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unity/杂七杂八.md"
+                "file": "unity/比对AssetBundle的差异.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "杂七杂八 的大纲"
+              "title": "比对AssetBundle的差异 的大纲"
             }
           }
         ],
@@ -170,37 +174,40 @@
   },
   "active": "80190db89964933c",
   "lastOpenFiles": [
-    "unity/渲染流水线.md",
-    "unity/Render分析/RenderDoc微信小游戏.md",
-    "unity/Render分析/RenderDoc分析Webgl.md",
-    "unity/项目工程管理/协作环境.md",
-    "unity/项目工程管理/架构解构.md",
-    "unity/BuiltIn升级URP.md",
     "tuanjie/AssetStudio-Tuanjie.md",
-    "unity/后处理/2.溶解.md",
+    "unity/比对AssetBundle的差异.md",
+    "unity/安装CocoaPods.md",
+    "unity/VGGameFramework/事件系统.md",
     "unity/Untiy技巧.md",
     "unity/Skine反编译.md",
-    "unity/LuaCI.md",
+    "unity/安卓/多个jar合并成一个aar（不使用AS）.md",
+    "unity/Shader说明.md",
+    "android/Activity的生命周期.md",
+    "tuanjie/团结启动.md",
+    "unity/安卓",
+    "unity/VGGameFramework/VGGameFramework.md",
+    "unity/团结引擎.md",
+    "unity/编码规范.md",
     "unity/GPU流水线.md",
+    "unity/BuiltIn升级URP.md",
     "unity/杂七杂八.md",
     "unity/游戏程序集资源划分.md",
     "unity/学习大纲.md",
-    "unity/团结引擎.md",
-    "unity/编码规范.md",
-    "unity/安装CocoaPods.md",
-    "unity/VGGameFramework/VGGameFramework.md",
-    "unity/URP/URP.md",
-    "unity/后处理/简单后处理原理以及实现.md",
-    "tuanjie/团结启动.md",
+    "unity/渲染流水线.md",
+    "unity/后处理/2.溶解.md",
+    "unity/后处理/4.调色.md",
+    "unity/后处理/5.模糊.md",
+    "unity/计算机图形学/三角函数.md",
+    "unity/项目工程管理/架构解构.md",
+    "unity/项目工程管理/协作环境.md",
+    "unity/Render分析/RenderDoc微信小游戏.md",
+    "unity/计算机图形学",
+    "attachment/Pasted image 20241210170228.png",
     "unity/项目工程管理",
-    "Welcome.md",
-    "unity/Shader说明.md",
-    "unity/VGGameFramework/事件系统.md",
     "attachment/Asset.pdf",
     "unity/C#",
     "attachment/s.html",
     "attachment/Pasted image 20240412100911.png",
-    "unity/H5包体测试配置.md",
     "attachment/Pasted image 20240910151818.png",
     "attachment/Pasted image 20240910151433.png",
     "attachment/Pasted image 20240910151323.png",
@@ -209,13 +216,10 @@
     "attachment/Pasted image 20240910142811.png",
     "attachment/Pasted image 20240910142605.png",
     "attachment/Pasted image 20240910142459.png",
-    "attachment/Pasted image 20240910142354.png",
     "unity/Render分析",
     "unity/VGGameFramework",
     "unity/URP",
     "unity/后处理",
-    "tuanjie",
-    "android",
     "Untitled 1.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
